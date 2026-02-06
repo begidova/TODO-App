@@ -1,0 +1,4 @@
+[ ] Comprar leche
+[X] Estudiar Git
+[ ] Hacer ejercicio
+[ ] Sacar al perro
